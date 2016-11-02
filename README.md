@@ -1,5 +1,5 @@
-# simulations
-Resources for individual-based simulations of viral evolution (includes discussion of DFE).
+# Simulations
+Resources for individual-based simulations of viral evolution.
 
 ## DFEM_py_nb.ipynb
 A jupyter notebook exploring simulation frameworks from the perspective of the distribution of fitness effects (DFE) of new mutations. The notebook culminates in an instantiation of a model (from [this publication](http://dx.doi.org/10.1371/journal.pcbi.1002609)) in which DFE are implicit and free energies of proteins are represented instead.
